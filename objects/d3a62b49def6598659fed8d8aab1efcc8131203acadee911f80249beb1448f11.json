@@ -1,0 +1,23 @@
+{
+  "publishedAt": "2026-11-15T14:06:01.913Z",
+  "papers": 6138,
+  "methods": 11,
+  "skills": 3,
+  "downloads": [
+    {
+      "id": "78465109-fb5c-47f8-b7fb-3d5726830ae8",
+      "sha256": "3eacb9e603b6f7f5942d2676223470b9cd168cb61023104f898e3cd4985371d1",
+      "bytes": 5744
+    },
+    {
+      "id": "9828d795-b10e-48dc-b162-20d51d34b0f0",
+      "sha256": "6a9a4309b99f438e39e077c44d1def98696ee9d54e250d42e83db38e41b33ad4",
+      "bytes": 2628
+    },
+    {
+      "id": "5d1ac54c-2918-438c-9ff5-746ffa96a3b3",
+      "sha256": "afbad7dfbb1d10ef796134bf189535fe31bc72fa0b0e8f3265a97eb546cf742d",
+      "bytes": 5615
+    }
+  ]
+}
